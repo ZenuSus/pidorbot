@@ -1,15 +1,14 @@
 # pidorbot
-пидорбот - просто телеграм бот 
-[посмотреть в тг](https://t.me/skibidi_pidor_bot)
+pidorbot - just a tg bot
+[view in telegram](https://t.me/skibidi_pidor_bot)
 
-## установка и настройка
-1. клонируйте репозиторий (`git clone https://github.com/ZenuSus/pidorbot`)
-2. поставьте библиотеки (`pip install telebot random time logging sqlite3 os requests tempfile speech_recognition pydub`)
-3. замените токены в коде на ваши
-   ![скриншот токенов](/imgs/screenshot1.png)
-4. запустите бота (`python botik.py`)
-5. удалите папку **imgs**
+## installing and setup
+1. clone this (`git clone https://github.com/ZenuSus/pidorbot`)
+2. install libs (`pip install telebot random time logging sqlite3 os requests tempfile speech_recognition pydub`)
+3. change tokens in code to yours
+   ![screenshoot](/imgs/screenshot1.png)
+4. run the bot (`python botik.py`)
+5. delete **imgs** folder
 
-## инфа
-если вы используете код бота, его куски итд, указывайте авторство (и прочитайте лицензию репозитория) <br>
-рекомендую запускать с линукса/юникс подобных систем, на винде не тестил
+## info
+if you using this code, or parts from it, mention me at author pls. And read the license lol.
