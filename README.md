@@ -9,7 +9,7 @@ pidorbot - telegram bot
 3. change tokens in code to yours
    ![screenshoot](/imgs/screenshot1.png)
 4. run the bot (`python botik.py`)
-5. delete **imgs** folder
+5. delete the **imgs** folder
 
 ## info
 if you using this code, or parts from it, mention me at author pls. And read the license lol.
