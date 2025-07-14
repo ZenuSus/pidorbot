@@ -4,7 +4,7 @@ pidorbot - telegram bot
 [view in telegram](https://t.me/skibidi_pidor_bot)
 
 ## installing and setup
-1. clone this repo (`git clone https://github.com/ZenuSus/pidorbot`)
+1. clone this repo (`git clone https://github.com/prgcadd/pidorbot`)
 2. install libs (`pip install telebot random time logging sqlite3 os requests tempfile speech_recognition pydub`)
 3. change tokens in code to yours
    ![screenshoot](/imgs/screenshot1.png)
